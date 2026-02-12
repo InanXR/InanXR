@@ -8,7 +8,7 @@
 ║     ██║██║ ╚████║██║  ██║██║ ╚████║                                          ║
 ║     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝                                          ║
 ║                                                                              ║
-║     SYNTHETIC INTELLIGENCE RESEARCHER · CYBERNETICIST · 15                   ║
+║     SYNTHETIC INTELLIGENCE RESEARCHER · CYBERNETICIST                        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
